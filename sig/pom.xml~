@@ -28,11 +28,6 @@
     <artifactId>signal-protocol-java</artifactId>
     <version>2.6.2</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/jsch/jsch -->
-<dependency>
-    <groupId>jsch</groupId>
-    <artifactId>jsch</artifactId>
-    <version>0.1.8</version>
-</dependency>
+
   </dependencies>
 </project>
